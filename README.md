@@ -215,8 +215,7 @@
 - [Zheeeng](https://github.com/Zheeeng/Zheeeng)
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
-- [Suryadeep Singh]
- (https://GitHub.com/sudosuryadeep)
+- [Suryadeep Singh](https://GitHub.com/sudosuryadeep)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 - [Bilivro](https://github.com/bilivro)
 
